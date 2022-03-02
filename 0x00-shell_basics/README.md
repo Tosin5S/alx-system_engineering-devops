@@ -1,2 +1,3 @@
 # Shell Basics
-## File  0-current_working_directory contain a bash script that prints the absolute path name of the current working directory
+0-current_working_directory prints the absolute path name of the current working directory
+1-listit display the contents list of your current directory
