@@ -16,4 +16,6 @@
 
 8-James_Bond sets the permission to the file hello as follows:Owner: no permission at all, Group: no permission at all and Other users: all the permissions.
 
-9-John_Doe sets the mode of the file hello
+9-John_Doe sets the mode of the file hello.
+
+10-mirror_permissions sets the mode of the file hello the same as olleh’s mode.
